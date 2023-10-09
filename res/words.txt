@@ -1,0 +1,87 @@
+shade        
+	
+
+dogwood        
+	
+
+fir        
+
+pine        
+	
+
+sycamore        
+	
+
+willow        
+
+redbud        
+	
+
+serviceberry        
+	
+
+magnolia        
+
+crabapple        
+	
+
+linden        
+	
+
+oak        
+
+maple        
+	
+
+honeylocust        
+	
+
+black walnut        
+
+ornamental        
+	
+
+deciduous        
+	
+
+evergreen        
+
+windbreak        
+	
+
+sunscald        
+	
+
+branch collar        
+
+graft union        
+	
+
+girdling        
+	
+
+bare root        
+
+renewal pruning        
+	
+
+root flare        
+	
+
+branch bark ridge        
+
+container        
+	
+
+emerald ash borer        
+	
+
+three cut method        
+
+topping        
+	
+
+staking        
+	
+
+balled and burlapped
