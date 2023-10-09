@@ -1,7 +1,9 @@
 # word_searcher
 ## How to Run
 Paste The Map in res/map.txt
+
 Paste the word bank in res/words.txt
+
 Cargo Run
 
 ## Limitations
